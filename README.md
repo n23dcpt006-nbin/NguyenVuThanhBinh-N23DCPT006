@@ -1,14 +1,10 @@
 #  Xin chào!  
 
----
-
 ##  Thông tin về tôi:
 **Họ và tên**: Nguyễn Vũ Thanh Bình. 
 **Ngành học**: Công nghệ Đa phương tiện.  
 **Trường**: Học viện Công nghệ Bưu chính viễn thông.
 Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
-
----
 
 ##  Nội dung chính của dự án
 - *Use Case chính:*
@@ -29,14 +25,10 @@
   - Cơ sở dữ liệu: MySQL  
   - Công cụ: GitHub, Visual Studio Code  
 
----
-
 ##  Mục tiêu cá nhân
 - Nắm vững quy trình phát triển phần mềm theo mô hình Agile/Scrum.  
 - Thành thạo các kỹ năng *thiết kế UML*, *viết test case*, và *quản lý dự án với Jira & GitHub*.  
 - Tăng khả năng làm việc nhóm và giao tiếp kỹ thuật trong môi trường phát triển phần mềm.
-
----
 
 ##  Dự án nhóm: Hệ thống ATM
 
