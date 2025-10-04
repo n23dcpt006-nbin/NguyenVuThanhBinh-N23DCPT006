@@ -1,4 +1,5 @@
 #  Xin chào!  
+
 ## Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
 
 ##  Thông tin về tôi:
@@ -25,9 +26,14 @@
 - *Công nghệ sử dụng:*
   - Ngôn ngữ: Python / Java / JavaScript  
   - Cơ sở dữ liệu: MySQL  
-  - Công cụ: GitHub, Visual Studio Code  
+  - Công cụ: GitHub, Visual Studio Code
 
-##  Mục tiêu cá nhân
+## Sở thích
+- Ứng dụng đa phương tiện và hệ thống tương tác
+- Thiết kế nhân vật 2D, logo, truyện tranh/comics.
+- Chỉnh sửa, dựng video clip.
+
+##  Mục tiêu cá nhân trong môn học
 - Nắm vững quy trình phát triển phần mềm theo mô hình Agile/Scrum.  
 - Thành thạo các kỹ năng *thiết kế UML*, *viết test case*, và *quản lý dự án với Jira & GitHub*.  
 - Tăng khả năng làm việc nhóm và giao tiếp kỹ thuật trong môi trường phát triển phần mềm.
