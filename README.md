@@ -2,9 +2,11 @@
 ## Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
 
 ##  Thông tin về tôi:
-**Họ và tên**: Nguyễn Vũ Thanh Bình.  
-**Ngành học**: Công nghệ Đa phương tiện.  
-**Trường**: Học viện Công nghệ Bưu chính viễn thông.  
+- **Họ tên:** Nguyễn Vũ Thanh Bình
+- **MSSV:** N23DCPT006
+- **Ngành học:** Công nghệ đa phương tiện
+- **Trường:** Học viện Công nghệ Bưu chính viễn thông (PTIT)
+- **Học phần:** Nhập môn Công nghệ Phần mềm
 
 ##  Nội dung chính của dự án
 - *Use Case chính:*
