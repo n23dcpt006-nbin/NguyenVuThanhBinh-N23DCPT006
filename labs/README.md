@@ -35,7 +35,7 @@ python Lab08/test_withdraw.py
 ## 2. LAB02 HOTEL BOOKING SYSTEM 🏨
 📖 **Github LAB02:** https://github.com/n23dcpt006-nbin/LAB02-HOTEL-BOOKING-SYSTEM
 
-🎯 Mục tiêu
+🎯 **Mục tiêu**
 Thiết kế **Use Case Diagram**, **Sequence Diagram** và **ERD** cho hệ thống quản lý đặt phòng khách sạn — bao quát toàn bộ quy trình từ tìm phòng, đặt phòng, đến check-in/check-out.
 
 📁 **Nội dung chính**
@@ -43,10 +43,6 @@ Thiết kế **Use Case Diagram**, **Sequence Diagram** và **ERD** cho hệ th�
 - *Sequence Diagram* → `sequence_booking.puml`, `sequence_checkin_checkout.puml`  
 - *ERD & Database* → `erd.puml`, `schema.sql`  
 - *Jira Backlog & Commit log* → `jira-backlog.md`, `README.md`
-
-⚙️ **Hướng dẫn sử dụng**
-1. Cài extension **PlantUML** trong VSCode hoặc truy cập [plantuml.com](https://www.plantuml.com/plantuml).  
-2. Mở file `.puml` → **Export PNG** để xem biểu đồ.  
 
 🔗 **Liên kết Jira**
 📋 [Hotel Booking System – Jira Board](https://congnghephanmem123.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
