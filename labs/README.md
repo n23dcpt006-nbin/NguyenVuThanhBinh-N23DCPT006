@@ -56,4 +56,19 @@ Thiết kế **Use Case Diagram**, **Sequence Diagram** và **ERD** cho hệ th�
 | 6 | Revenue Reports | HOTEL-06 | Báo cáo doanh thu |
 | 7 | Housekeeping Tasks | HOTEL-07 | Quản lý dọn phòng |
 
-## 3. LAB03 LOGIN:
+## 3. LAB03 LOGIN FORM:
+📘 **Github LAB03:** https://github.com/n23dcpt006-nbin/LAB03-LOGIN-FORM
+
+⚙️ **Cách chạy**
+1. Mở terminal trong thư mục dự án.  
+2. (Nếu dùng Flask) cài đặt:
+   ```bash
+   pip install flask
+   python app.py
+Mở trình duyệt và truy cập:
+👉 http://localhost:5000/login
+
+🧩 **Chức năng**
+- Đăng nhập thành công / thất bại
+- Cảnh báo khi bỏ trống username hoặc password
+- Chuyển trang khi nhấn Forgot password, Sign Up, hoặc Social Login
