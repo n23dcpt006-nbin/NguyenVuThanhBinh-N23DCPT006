@@ -1,11 +1,9 @@
 # TỔNG HỢP LINK GITHUB CÁC LABS
 
 ## 1. LAB01 ATM MINI PROJECT 🏧: 
-📖 **Giới thiệu:**  
-- **ATM Mini Project** là một ứng dụng mô phỏng hệ thống máy rút tiền tự động (ATM), được phát triển xuyên suốt các **Lab 01 → 10** của học phần **Nhập môn Công nghệ phần mềm** tại **Học viện Công nghệ Bưu chính Viễn thông – Cơ sở TP.HCM (PTIT HCM)**.
-- Mục tiêu của dự án là áp dụng toàn bộ quy trình phát triển phần mềm — từ phân tích, thiết kế đến kiểm thử và báo cáo.
+📖 **Github LAB01:** https://github.com/n23dcpt006-nbin/NMCNPM-ATM
 
-⚙️ **Chức năng chính**
+⚙️ **Chức năng chính:**
 - 🔐 *Đăng nhập*: Xác thực người dùng từ cơ sở dữ liệu  
 - 💸 *Rút tiền (Withdraw)*: Cập nhật số dư và lưu lịch sử giao dịch  
 - 📊 *Xem số dư / Giao dịch*: Truy vấn dữ liệu người dùng  
