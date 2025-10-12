@@ -1,45 +1,23 @@
-#  Xin chào!  
+# Hi there, I'm [Tên bạn] 👋
+**A passionate [Vai trò của bạn] from [Quốc gia]**
 
-## Đây là trang GitHub cá nhân nơi mình lưu trữ và chia sẻ các bài lab, project và tài liệu học tập trong học kỳ này.
+## 💫 About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: [email / mạng xã hội]
 
-##  Thông tin về tôi:
-- **Họ tên:** Nguyễn Vũ Thanh Bình
-- **MSSV:** N23DCPT006
-- **Ngành học:** Công nghệ đa phương tiện
-- **Trường:** Học viện Công nghệ Bưu chính viễn thông (PTIT)
-- **Học phần:** Nhập môn Công nghệ Phần mềm
+## 🧠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java)
 
-##  Nội dung chính của dự án
-- *Use Case chính:*
-  - Quản lý người dùng  
-  - Quản lý sản phẩm / dịch vụ  
-  - Xử lý giao dịch  
-  - Báo cáo & thống kê  
+## 🚀 Featured Projects
+- [Awesome Project](https://github.com/tenban/project) – Mô tả ngắn
+- [Another Project](https://github.com/tenban/project2) – Mô tả ngắn
 
-- *Thiết kế hệ thống:*
-  - Use Case Diagram  
-  - Sequence Diagram  
-  - Class Diagram  
-  - Package Diagram  
-  - ERD (Entity Relationship Diagram)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenban&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenban&layout=compact&theme=radical)
 
-- *Công nghệ sử dụng:*
-  - Ngôn ngữ: Python / Java / JavaScript  
-  - Cơ sở dữ liệu: MySQL  
-  - Công cụ: GitHub, Visual Studio Code
-
-## Sở thích
-- Ứng dụng đa phương tiện và hệ thống tương tác
-- Thiết kế nhân vật 2D, logo, truyện tranh/comics.
-- Chỉnh sửa, dựng video clip.
-
-##  Mục tiêu cá nhân trong môn học
-- Nắm vững quy trình phát triển phần mềm theo mô hình Agile/Scrum.  
-- Thành thạo các kỹ năng *thiết kế UML*, *viết test case*, và *quản lý dự án với Jira & GitHub*.  
-- Tăng khả năng làm việc nhóm và giao tiếp kỹ thuật trong môi trường phát triển phần mềm.
-
-##  Dự án nhóm: Hệ thống ATM
-
-Dự án được thực hiện trong khuôn khổ môn *Nhập môn Công nghệ Phần mềm* nhằm thực hành toàn bộ quy trình phát triển phần mềm — từ *phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến triển khai*. 
-
-Link github NMCNPM-ATM: https://github.com/n23dcpt006-nbin/NMCNPM-ATM
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](link-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:email@gmail.com)
