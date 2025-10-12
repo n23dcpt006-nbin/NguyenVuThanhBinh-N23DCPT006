@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Vu Thanh Binh - nbin 👋  
+# 👋 Hi there, I'm Nguyen Vu Thanh Binh - nbin   
 ![Banner](https://i.pinimg.com/736x/2e/4a/ab/2e4aabc433eab9b3fd4162b31f645f50.jpg)  
 
 🎓 **Student at Posts and Telecommunications Institute of Technology University (PTIT)**  
