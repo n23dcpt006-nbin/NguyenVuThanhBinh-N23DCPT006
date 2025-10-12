@@ -58,10 +58,4 @@ Thiết kế **Use Case Diagram**, **Sequence Diagram** và **ERD** cho hệ th�
 | 6 | Revenue Reports | HOTEL-06 | Báo cáo doanh thu |
 | 7 | Housekeeping Tasks | HOTEL-07 | Quản lý dọn phòng |
 
-🏷️ **Tag phiên bản**
-```bash
-git tag v1.0
-git push origin v1.0
-```
-
 ## 3. LAB03 LOGIN:
