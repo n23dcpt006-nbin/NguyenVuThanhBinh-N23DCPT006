@@ -11,7 +11,7 @@
 - 🌱 *Currently:* learning about **software development** and **multimedia applications**.  
 - 💡 *Hobby:* Designing interactive and visually appealing user interfaces.    
 - 🎯 *Goals:* Collaborate on **creative projects** and **web applications**. 
-- 📫 *My student email:* [Email](mailto:nvtbinh.18@gmail.com)  
+- 📫 *My student email:* **n23dcpt006@student.ptithcm.edu.vn**
 
 ## 🧠 Tech Stack  
 ### 💻 Programming & Web 
