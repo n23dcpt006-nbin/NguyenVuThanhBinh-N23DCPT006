@@ -1,4 +1,9 @@
-## Dự án: Hệ thống ATM
-**Dự án được thực hiện trong khuôn khổ môn Nhập môn Công nghệ Phần mềm nhằm thực hành toàn bộ quy trình phát triển phần mềm — từ phân tích yêu cầu, thiết kế, lập trình, kiểm thử đến triển khai.**
+# TỔNG HỢP CÁC BÀI LABS
 
-**Link github NMCNPM-ATM:** https://github.com/n23dcpt006-nbin/NMCNPM-ATM
+## Link github các labs:  
+### LAB01 ATM SYSTEM: 
+https://github.com/n23dcpt006-nbin/NMCNPM-ATM
+
+### LAB02 HOTEL BOOKING SYSTEM:
+
+### LAB03 LOGIN:
