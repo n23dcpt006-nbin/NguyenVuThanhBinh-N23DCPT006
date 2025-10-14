@@ -1,0 +1,42 @@
+@startuml
+actor User
+participant "Login Page" as Web
+participant "Auth Controller" as Controller
+participant "User Database" as DB
+participant "Email Service" as Mail
+
+User -> Web: Nhập username + password
+Web -> Controller: submitLogin(username, password)
+Controller -> DB: findByUsername(username)
+DB --> Controller: thông tin tài khoản / null
+
+alt tài khoản tồn tại
+    Controller -> DB: verifyPassword()
+    alt đúng mật khẩu
+        Controller -> DB: resetFailedAttempts()
+        Controller -> Web: thông báo "Đăng nhập thành công"
+        Web -> User: chuyển đến trang chủ
+    else sai mật khẩu
+        Controller -> DB: tăng failedAttempts
+        alt failedAttempts >= 5
+            Controller -> DB: lockAccount()
+            Controller -> Web: "Tài khoản bị khóa"
+        else
+            Controller -> Web: "Sai mật khẩu"
+        end
+    end
+else tài khoản không tồn tại
+    Controller -> Web: "Tài khoản không tồn tại"
+end
+
+== Quên mật khẩu ==
+User -> Web: Chọn "Quên mật khẩu"
+Web -> Controller: requestPasswordReset(username/email)
+Controller -> DB: findByUsernameOrEmail()
+alt tồn tại
+    Controller -> Mail: sendResetToken()
+    Mail --> User: gửi email khôi phục
+else không tồn tại
+    Controller -> Web: thông báo "Không tìm thấy tài khoản"
+end
+@enduml
